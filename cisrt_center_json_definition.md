@@ -6,10 +6,6 @@
 2. [Structure générale](#structure-générale)
 3. [Schéma détaillé](#schéma-détaillé)
 4. [Types de données](#types-de-données)
-5. [Exemples d'utilisation](#exemples-dutilisation)
-6. [Validation des données](#validation-des-données)
-7. [Bonnes pratiques](#bonnes-pratiques)
-8. [Annexes](#annexes)
 
 ## Introduction
 
