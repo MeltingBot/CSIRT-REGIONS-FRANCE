@@ -1,9 +1,0 @@
-[submodule "cirst-regions/themes/hugo-theme-learn"]
-	path = cirst-regions/themes/hugo-theme-learn
-	url = https://github.com/matcornic/hugo-theme-learn.git
-[submodule "cirst-regions/themes/hugo-geekdoc"]
-	path = cirst-regions/themes/hugo-geekdoc
-	url = https://github.com/thegeeklab/hugo-geekdoc.git
-[submodule "cisrt-regions/themes/hugo-theme-learn"]
-	path = cisrt-regions/themes/hugo-theme-learn
-	url = https://github.com/matcornic/hugo-theme-learn.git
