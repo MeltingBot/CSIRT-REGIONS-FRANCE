@@ -129,6 +129,19 @@ Cette documentation décrit le format de données standardisé pour représenter
 | `varying-hours` | Horaires variables |
 | `business-hours-with-oncall` | Horaires avec astreinte |
 
+### Types de fuseau horaire
+
+| Territoire | Identifiant IANA | Offset standard |
+|------------|------------------|-----------------|
+| France métropolitaine | Europe/Paris | +01:00 |
+| Réunion/Mayotte | Indian/Reunion | +04:00 |
+| Martinique | America/Martinique | -04:00 |
+| Guadeloupe | America/Guadeloupe | -04:00 |
+| Guyane | America/Cayenne | -03:00 |
+| Saint-Pierre-et-Miquelon | America/Miquelon | -03:00 |
+| Nouvelle-Calédonie | Pacific/Noumea | +11:00 |
+| Polynésie française | Pacific/Tahiti | -10:00 |
+| Wallis-et-Futuna | Pacific/Wallis | +12:00 |
 
 
 ### RFC 2350 (`rfc_2350`)

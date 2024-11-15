@@ -1,0 +1,874 @@
+{
+  "csirt_centers": [
+    {
+      "name": "Urgence Cyber CSIRT Région sud",
+      "country": "FR",
+      "region": "Provence Alpes Côtes d'Azur",
+      "phone": {
+        "number": "0 805 036 083",
+        "type": "toll_free"
+      },
+      "email": "contact@urgencecyber-regionsud.fr",
+      "website": "https://www.urgencecyber-regionsud.fr/formulaire-de-declaration-dincident",
+      "scope": {
+        "type": "regional",
+        "audience": "public",
+        "sector": null,
+        "eligibility": {
+          "geographic": "All organizations in Provence Alpes Côtes d'Azur",
+          "organization_types": [
+            "companies",
+            "public_institutions",
+            "associations",
+            "local_authorities"
+          ],
+          "restrictions": null
+        }
+      },
+      "availability": {
+        "type": "business-hours",
+        "timezone": "Europe/Paris",
+        "work_days": [
+          "monday",
+          "tuesday",
+          "wednesday",
+          "thursday",
+          "friday"
+        ],
+        "hours": [
+          {
+            "start": "09:00",
+            "end": "12:30"
+          },
+          {
+            "start": "14:00",
+            "end": "17:30"
+          }
+        ],
+        "exceptions": [
+          "public_holidays"
+        ],
+        "raw": "9h00 - 12h30 14h00 - 17h30 du lundi au vendredi hors jours fériés"
+      },
+      "rfc_2350": {
+        "document_url": "https://www.urgencecyber-regionsud.fr/wp-content/uploads/2023/10/20231002_TLP-CLEAR_UCRS_RFC2350-v1.2.pdf",
+        "version": "1.0",
+        "last_updated": "2024-11-15",
+        "tlp_level": "WHITE",
+        "team_information": {
+          "name": "Urgence Cyber CSIRT Région sud",
+          "status": "TLP:WHITE",
+          "timezone": "Europe/Paris",
+          "operating_hours": "9h00 - 12h30 14h00 - 17h30 du lundi au vendredi hors jours fériés"
+        }
+      }
+    },
+    {
+      "name": "CISRT Hauts de France",
+      "country": "FR",
+      "region": "Hauts de France",
+      "phone": {
+        "number": "0 806 700 111",
+        "type": "toll_free"
+      },
+      "email": "jelahmar@csirt-hdf.fr",
+      "website": "https://csirt-hdf.fr",
+      "scope": {
+        "type": "regional",
+        "audience": "public",
+        "sector": null,
+        "eligibility": {
+          "geographic": "All organizations in Hauts de France",
+          "organization_types": [
+            "companies",
+            "public_institutions",
+            "associations",
+            "local_authorities"
+          ],
+          "restrictions": null
+        }
+      },
+      "availability": {
+        "type": "business-hours",
+        "timezone": "Europe/Paris",
+        "work_days": [
+          "monday",
+          "tuesday",
+          "wednesday",
+          "thursday",
+          "friday"
+        ],
+        "hours": [
+          {
+            "start": "09:00",
+            "end": "12:30"
+          },
+          {
+            "start": "14:00",
+            "end": "17:30"
+          }
+        ],
+        "exceptions": [
+          "public_holidays"
+        ],
+        "raw": "9h00 - 12h30 14h00 - 17h30 du lundi au vendredi hors jours fériés"
+      },
+      "rfc_2350": {
+        "document_url": "http://csirt-hdf.fr/wp-content/uploads/2024/07/RFC2350-CSIRT-HdF-v1.5_FR.pdf",
+        "version": "1.0",
+        "last_updated": "2024-11-15",
+        "tlp_level": "WHITE",
+        "team_information": {
+          "name": "CISRT Hauts de France",
+          "status": "TLP:WHITE",
+          "timezone": "Europe/Paris",
+          "operating_hours": "9h00 - 12h30 14h00 - 17h30 du lundi au vendredi hors jours fériés"
+        }
+      }
+    },
+    {
+      "name": "Normandie Cyber",
+      "country": "FR",
+      "region": "Normandie",
+      "phone": {
+        "number": "0 808 80 0001",
+        "type": "fixed_rate"
+      },
+      "email": "ilcontact@normandie-cyber.fr",
+      "website": "https://normandiecyber.with31.glpi-network.cloud/marketplace/formcreator/front/formdisplay.php?id=1",
+      "scope": {
+        "type": "regional",
+        "audience": "public",
+        "sector": null,
+        "eligibility": {
+          "geographic": "All organizations in Normandie",
+          "organization_types": [
+            "companies",
+            "public_institutions",
+            "associations",
+            "local_authorities"
+          ],
+          "restrictions": null
+        }
+      },
+      "availability": {
+        "type": "business-hours",
+        "timezone": "Europe/Paris",
+        "work_days": [
+          "monday",
+          "tuesday",
+          "wednesday",
+          "thursday",
+          "friday"
+        ],
+        "hours": [],
+        "exceptions": [
+          "public_holidays"
+        ],
+        "raw": "8h – 17h du lundi au jeudi et 8h – 16h le vendredi  hors jours fériés"
+      },
+      "rfc_2350": {
+        "document_url": "https://adnormandie.fr/wp-content/uploads/2024/02/RFC2350-CSIRT-R-v1.2_FR.pdf",
+        "version": "1.0",
+        "last_updated": "2024-11-15",
+        "tlp_level": "WHITE",
+        "team_information": {
+          "name": "Normandie Cyber",
+          "status": "TLP:WHITE",
+          "timezone": "Europe/Paris",
+          "operating_hours": "8h – 17h du lundi au jeudi et 8h – 16h le vendredi  hors jours fériés"
+        }
+      }
+    },
+    {
+      "name": "CRIC",
+      "country": "FR",
+      "region": "Nouvelle Aquitaine",
+      "phone": {
+        "number": "0 805 29 29 40",
+        "type": "toll_free"
+      },
+      "email": "cric-na@campuscyber-na.fr",
+      "website": "https://www.campuscyber-na.fr/signaler-incident",
+      "scope": {
+        "type": "regional",
+        "audience": "public",
+        "sector": null,
+        "eligibility": {
+          "geographic": "All organizations in Nouvelle Aquitaine",
+          "organization_types": [
+            "companies",
+            "public_institutions",
+            "associations",
+            "local_authorities"
+          ],
+          "restrictions": null
+        }
+      },
+      "availability": {
+        "type": "business-hours",
+        "timezone": "Europe/Paris",
+        "work_days": [
+          "monday",
+          "tuesday",
+          "wednesday",
+          "thursday",
+          "friday"
+        ],
+        "hours": [
+          {
+            "start": "09:00",
+            "end": "12:30"
+          },
+          {
+            "start": "13:30",
+            "end": "17:00"
+          }
+        ],
+        "exceptions": [
+          "public_holidays"
+        ],
+        "raw": "9h00 - 12h30 13h30 - 17h00 du lundi au vendredi hors jours fériés"
+      },
+      "rfc_2350": {
+        "document_url": "https://www.campuscyber-na.fr/campus-api/uploads/RFC_2350_d4540f969c.pdf",
+        "version": "1.0",
+        "last_updated": "2024-11-15",
+        "tlp_level": "WHITE",
+        "team_information": {
+          "name": "CRIC",
+          "status": "TLP:WHITE",
+          "timezone": "Europe/Paris",
+          "operating_hours": "9h00 - 12h30 13h30 - 17h00 du lundi au vendredi hors jours fériés"
+        }
+      }
+    },
+    {
+      "name": "Cyber'OCC",
+      "country": "FR",
+      "region": "Occitanie",
+      "phone": {
+        "number": "0 800 71 13 13",
+        "type": "toll_free"
+      },
+      "email": "csirt@cyberocc.fr",
+      "website": "https://www.cyberocc.com/nos-services/urgence-cyber/",
+      "scope": {
+        "type": "regional",
+        "audience": "public",
+        "sector": null,
+        "eligibility": {
+          "geographic": "All organizations in Occitanie",
+          "organization_types": [
+            "companies",
+            "public_institutions",
+            "associations",
+            "local_authorities"
+          ],
+          "restrictions": null
+        }
+      },
+      "availability": {
+        "type": "business-hours",
+        "timezone": "Europe/Paris",
+        "work_days": [
+          "monday",
+          "tuesday",
+          "wednesday",
+          "thursday",
+          "friday"
+        ],
+        "hours": [],
+        "exceptions": [
+          "public_holidays"
+        ],
+        "raw": "9h - 18 h du lundi au vendredi (hors jour férié)"
+      },
+      "rfc_2350": {
+        "document_url": "https://www.cyberocc.com/wp-content/uploads/2024/10/RFC2350-CSIRT-CyberOcc.pdf",
+        "version": "1.0",
+        "last_updated": "2024-11-15",
+        "tlp_level": "WHITE",
+        "team_information": {
+          "name": "Cyber'OCC",
+          "status": "TLP:WHITE",
+          "timezone": "Europe/Paris",
+          "operating_hours": "9h - 18 h du lundi au vendredi (hors jour férié)"
+        }
+      }
+    },
+    {
+      "name": "Pays de la Loire Cyber Assistance",
+      "country": "FR",
+      "region": "Pays de la Loire",
+      "phone": {
+        "number": "0 800 100 200",
+        "type": "toll_free"
+      },
+      "email": "cyberassistance@paysdelaloire.fr",
+      "website": "https://www.paysdelaloire.fr/economie-et-innovation/entreprise/mon-organisation-subit-une-cyberattaque",
+      "scope": {
+        "type": "regional",
+        "audience": "public",
+        "sector": null,
+        "eligibility": {
+          "geographic": "All organizations in Pays de la Loire",
+          "organization_types": [
+            "companies",
+            "public_institutions",
+            "associations",
+            "local_authorities"
+          ],
+          "restrictions": null
+        }
+      },
+      "availability": {
+        "type": "24-7",
+        "timezone": "Europe/Paris",
+        "work_days": [
+          "monday",
+          "tuesday",
+          "wednesday",
+          "thursday",
+          "friday",
+          "saturday",
+          "sunday"
+        ],
+        "hours": [
+          {
+            "start": "00:00",
+            "end": "23:59"
+          }
+        ],
+        "exceptions": [],
+        "raw": "24h/24h 7j/7j"
+      },
+      "rfc_2350": {
+        "document_url": "https://www.paysdelaloire.fr/sites/default/files/2023-10/CSIRT%20Pays%20de%20la%20Loire%20Cyber%20Assistance%20%E2%80%93%20RFC2350%20%281%29.pdf",
+        "version": "1.0",
+        "last_updated": "2024-11-15",
+        "tlp_level": "WHITE",
+        "team_information": {
+          "name": "Pays de la Loire Cyber Assistance",
+          "status": "TLP:WHITE",
+          "timezone": "Europe/Paris",
+          "operating_hours": "24h/24h 7j/7j"
+        }
+      }
+    },
+    {
+      "name": "CybeReponse",
+      "country": "FR",
+      "region": "Centre Val de Loire",
+      "phone": {
+        "number": "0 805 691 505",
+        "type": "toll_free"
+      },
+      "website": "https://www.recia.fr/cybersecurite/centre-de-reponse-aux-incidents-cyber-csirt/",
+      "scope": {
+        "type": "regional",
+        "audience": "public",
+        "sector": null,
+        "eligibility": {
+          "geographic": "All organizations in Centre Val de Loire",
+          "organization_types": [
+            "companies",
+            "public_institutions",
+            "associations",
+            "local_authorities"
+          ],
+          "restrictions": null
+        }
+      },
+      "availability": {
+        "type": "business-hours",
+        "timezone": "Europe/Paris",
+        "work_days": [
+          "monday",
+          "tuesday",
+          "wednesday",
+          "thursday",
+          "friday"
+        ],
+        "hours": [],
+        "exceptions": [
+          "public_holidays"
+        ],
+        "raw": "08h30 – 12h30 14h00 – 17h30 du lundi au vendredi (hors jours fériés) "
+      },
+      "rfc_2350": {
+        "document_url": null,
+        "version": "1.0",
+        "last_updated": "2024-11-15",
+        "tlp_level": "WHITE",
+        "team_information": {
+          "name": "CybeReponse",
+          "status": "TLP:WHITE",
+          "timezone": "Europe/Paris",
+          "operating_hours": "08h30 – 12h30 14h00 – 17h30 du lundi au vendredi (hors jours fériés) "
+        }
+      }
+    },
+    {
+      "name": "Cyber Corsica",
+      "country": "FR",
+      "region": "Corse",
+      "phone": {
+        "number": "04 20 97 00 97",
+        "type": "local_rate"
+      },
+      "email": "contact@cyber.corsica",
+      "website": "https://cyber.corsica/formulaire-de-declaration-dincident/",
+      "scope": {
+        "type": "regional",
+        "audience": "public",
+        "sector": null,
+        "eligibility": {
+          "geographic": "All organizations in Corse",
+          "organization_types": [
+            "companies",
+            "public_institutions",
+            "associations",
+            "local_authorities"
+          ],
+          "restrictions": null
+        }
+      },
+      "availability": {
+        "type": "business-hours",
+        "timezone": "Europe/Paris",
+        "work_days": [
+          "monday",
+          "tuesday",
+          "wednesday",
+          "thursday",
+          "friday"
+        ],
+        "hours": [],
+        "exceptions": [
+          "public_holidays"
+        ],
+        "raw": "08h30 – 12h30 14h00 – 17h30 du lundi au vendredi (hors jours fériés) "
+      },
+      "rfc_2350": {
+        "document_url": "https://cyber.corsica/rfc2350/",
+        "version": "1.0",
+        "last_updated": "2024-11-15",
+        "tlp_level": "WHITE",
+        "team_information": {
+          "name": "Cyber Corsica",
+          "status": "TLP:WHITE",
+          "timezone": "Europe/Paris",
+          "operating_hours": "08h30 – 12h30 14h00 – 17h30 du lundi au vendredi (hors jours fériés) "
+        }
+      }
+    },
+    {
+      "name": "Urgence Cyber Ile de France",
+      "country": "FR",
+      "region": "Ile de France",
+      "phone": {
+        "number": "0 800 730 647",
+        "type": "toll_free"
+      },
+      "email": "urgencecyber@iledefrance.fr",
+      "website": "https://urgencecyber.iledefrance.fr/form.html",
+      "scope": {
+        "type": "regional",
+        "audience": "public",
+        "sector": null,
+        "eligibility": {
+          "geographic": "All organizations in Ile de France",
+          "organization_types": [
+            "companies",
+            "public_institutions",
+            "associations",
+            "local_authorities"
+          ],
+          "restrictions": null
+        }
+      },
+      "availability": {
+        "type": "business-hours",
+        "timezone": "Europe/Paris",
+        "work_days": [
+          "monday",
+          "tuesday",
+          "wednesday",
+          "thursday",
+          "friday"
+        ],
+        "hours": [],
+        "exceptions": [
+          "public_holidays"
+        ],
+        "raw": "9h - 18 h du lundi au vendredi (hors jour férié)"
+      },
+      "rfc_2350": {
+        "document_url": "https://urgencecyber.iledefrance.fr/files/rfc2350.pdf",
+        "version": "1.0",
+        "last_updated": "2024-11-15",
+        "tlp_level": "WHITE",
+        "team_information": {
+          "name": "Urgence Cyber Ile de France",
+          "status": "TLP:WHITE",
+          "timezone": "Europe/Paris",
+          "operating_hours": "9h - 18 h du lundi au vendredi (hors jour férié)"
+        }
+      }
+    },
+    {
+      "name": "Breizh Cyber",
+      "country": "FR",
+      "region": "Bretagne",
+      "phone": {
+        "number": "0 800 200 008",
+        "type": "toll_free"
+      },
+      "email": "contact@breizhcyber.bzh",
+      "website": "https://breizhcyber.bzh/declarer-un-incident/",
+      "scope": {
+        "type": "regional",
+        "audience": "public",
+        "sector": null,
+        "eligibility": {
+          "geographic": "All organizations in Bretagne",
+          "organization_types": [
+            "companies",
+            "public_institutions",
+            "associations",
+            "local_authorities"
+          ],
+          "restrictions": null
+        }
+      },
+      "availability": {
+        "type": "business-hours",
+        "timezone": "Europe/Paris",
+        "work_days": [
+          "monday",
+          "tuesday",
+          "wednesday",
+          "thursday",
+          "friday"
+        ],
+        "hours": [],
+        "exceptions": [
+          "public_holidays"
+        ],
+        "raw": "9h-18 h du lundi au vendredi (hors jour férié)"
+      },
+      "rfc_2350": {
+        "document_url": null,
+        "version": "1.0",
+        "last_updated": "2024-11-15",
+        "tlp_level": "WHITE",
+        "team_information": {
+          "name": "Breizh Cyber",
+          "status": "TLP:WHITE",
+          "timezone": "Europe/Paris",
+          "operating_hours": "9h-18 h du lundi au vendredi (hors jour férié)"
+        }
+      }
+    },
+    {
+      "name": "CSIRT Bourgogne-Franche-Comté",
+      "country": "FR",
+      "region": "Bourgogne-Franche-Comté",
+      "phone": {
+        "number": "09 70 60 99 09",
+        "type": "fixed_rate"
+      },
+      "email": "cyber@arnia-bfc.fr",
+      "website": "https://www.csirt-bfc.fr/",
+      "scope": {
+        "type": "regional",
+        "audience": "public",
+        "sector": null,
+        "eligibility": {
+          "geographic": "All organizations in Bourgogne-Franche-Comté",
+          "organization_types": [
+            "companies",
+            "public_institutions",
+            "associations",
+            "local_authorities"
+          ],
+          "restrictions": null
+        }
+      },
+      "availability": {
+        "type": "business-hours",
+        "timezone": "Europe/Paris",
+        "work_days": [
+          "monday",
+          "tuesday",
+          "wednesday",
+          "thursday",
+          "friday"
+        ],
+        "hours": [],
+        "exceptions": [
+          "public_holidays"
+        ],
+        "raw": "9h - 18 h du lundi au vendredi (hors jour férié)"
+      },
+      "rfc_2350": {
+        "document_url": "https://www.csirt-bfc.fr/rfc2350/ARNia-Cyber%20-%20RFC%202350%20V2.0.pdf",
+        "version": "1.0",
+        "last_updated": "2024-11-15",
+        "tlp_level": "WHITE",
+        "team_information": {
+          "name": "CSIRT Bourgogne-Franche-Comté",
+          "status": "TLP:WHITE",
+          "timezone": "Europe/Paris",
+          "operating_hours": "9h - 18 h du lundi au vendredi (hors jour férié)"
+        }
+      }
+    },
+    {
+      "name": "Grand Est Cybersécurité",
+      "country": "FR",
+      "region": "Grand Est",
+      "phone": {
+        "number": "09 70 51 25 25",
+        "type": "fixed_rate"
+      },
+      "email": "contact@grandest-cyber.fr",
+      "website": "https://support.grandest-cyber.fr/marketplace/formcreator/front/formdisplay.php?id=1",
+      "scope": {
+        "type": "regional",
+        "audience": "public",
+        "sector": null,
+        "eligibility": {
+          "geographic": "All organizations in Grand Est",
+          "organization_types": [
+            "companies",
+            "public_institutions",
+            "associations",
+            "local_authorities"
+          ],
+          "restrictions": null
+        }
+      },
+      "availability": {
+        "type": "business-hours",
+        "timezone": "Europe/Paris",
+        "work_days": [
+          "monday",
+          "tuesday",
+          "wednesday",
+          "thursday",
+          "friday"
+        ],
+        "hours": [
+          {
+            "start": "09:00",
+            "end": "12:30"
+          },
+          {
+            "start": "14:00",
+            "end": "17:30"
+          }
+        ],
+        "exceptions": [
+          "public_holidays"
+        ],
+        "raw": "9h00 - 12h30 et de 14h00 - 17h30  du lundi au vendredi (hors jours fériés)"
+      },
+      "rfc_2350": {
+        "document_url": "https://www.cybersecurite.grandest.fr/wp-content/uploads/2023/08/Grand-Est-Cybersecurite-RFC2350.pdf",
+        "version": "1.0",
+        "last_updated": "2024-11-15",
+        "tlp_level": "WHITE",
+        "team_information": {
+          "name": "Grand Est Cybersécurité",
+          "status": "TLP:WHITE",
+          "timezone": "Europe/Paris",
+          "operating_hours": "9h00 - 12h30 et de 14h00 - 17h30  du lundi au vendredi (hors jours fériés)"
+        }
+      }
+    },
+    {
+      "name": "CISRT Atlantic",
+      "country": "FR",
+      "region": "Antilles, Guyane",
+      "zone": "Guadeloupe, Guyane, Martinique,\nSaint-Barthélémy, Saint-Martin,\nSaint-Pierre-et-Miquelon",
+      "phone": {
+        "number": "09 70 26 08 01",
+        "type": "fixed_rate"
+      },
+      "email": "csirt-atlantic@accyb.org",
+      "website": "https://www.accyb.org/fr/FindOutAtlantic",
+      "scope": {
+        "type": "overseas",
+        "audience": "public",
+        "sector": null,
+        "eligibility": {
+          "geographic": "All organizations in Antilles, Guyane",
+          "organization_types": [
+            "companies",
+            "public_institutions",
+            "associations",
+            "local_authorities"
+          ],
+          "restrictions": null
+        }
+      },
+      "availability": {
+        "type": "business-hours",
+        "timezone": "America/Guadeloupe",
+        "work_days": [
+          "monday",
+          "tuesday",
+          "wednesday",
+          "thursday",
+          "friday"
+        ],
+        "hours": [
+          {
+            "start": "09:00",
+            "end": "12:30"
+          },
+          {
+            "start": "13:30",
+            "end": "17:00"
+          }
+        ],
+        "exceptions": [
+          "public_holidays"
+        ],
+        "raw": "9h00 - 12h30 - 13h30 - 17h00 Lundi au vendredi (hors jours fériés) "
+      },
+      "rfc_2350": {
+        "document_url": "https://www.accyb.org/Documents/CSIRT-ATLANTIC.pdf",
+        "version": "1.0",
+        "last_updated": "2024-11-15",
+        "tlp_level": "WHITE",
+        "team_information": {
+          "name": "CISRT Atlantic",
+          "status": "TLP:WHITE",
+          "timezone": "Europe/Paris",
+          "operating_hours": "9h00 - 12h30 - 13h30 - 17h00 Lundi au vendredi (hors jours fériés) "
+        }
+      }
+    },
+    {
+      "name": "CISRT La Réunion",
+      "country": "FR",
+      "region": "La Réunion",
+      "phone": {
+        "number": "02 62 97 49 99",
+        "type": "local_rate"
+      },
+      "email": "csirt@cyber-reunion.fr",
+      "website": "https://www.cyber-reunion.fr/csirt/",
+      "scope": {
+        "type": "overseas",
+        "audience": "public",
+        "sector": null,
+        "eligibility": {
+          "geographic": "All organizations in La Réunion",
+          "organization_types": [
+            "companies",
+            "public_institutions",
+            "associations",
+            "local_authorities"
+          ],
+          "restrictions": null
+        }
+      },
+      "availability": {
+        "type": "business-hours",
+        "timezone": "Indian/Reunion",
+        "work_days": [
+          "monday",
+          "tuesday",
+          "wednesday",
+          "thursday",
+          "friday"
+        ],
+        "hours": [
+          {
+            "start": "09:00",
+            "end": "12:00"
+          },
+          {
+            "start": "13:00",
+            "end": "17:00"
+          }
+        ],
+        "exceptions": [],
+        "raw": "9h - 12h - 13h - 17h Du lundi au vendredi"
+      },
+      "rfc_2350": {
+        "document_url": "https://www.cyber-reunion.fr/wp-content/uploads/CSIRT-LR_RFC2350_FR.pdf",
+        "version": "1.0",
+        "last_updated": "2024-11-15",
+        "tlp_level": "WHITE",
+        "team_information": {
+          "name": "CISRT La Réunion",
+          "status": "TLP:WHITE",
+          "timezone": "Europe/Paris",
+          "operating_hours": "9h - 12h - 13h - 17h Du lundi au vendredi"
+        }
+      }
+    },
+    {
+      "name": "CISRT Te Rama",
+      "country": "FR",
+      "region": "Polynésie Française",
+      "phone": {
+        "number": "+(686) 40 455 200",
+        "type": "fixed_rate"
+      },
+      "email": "csirt@TERAMA.fr",
+      "website": "https://www.terama.pf/csirt",
+      "scope": {
+        "type": "overseas",
+        "audience": "public",
+        "sector": null,
+        "eligibility": {
+          "geographic": "All organizations in Polynésie Française",
+          "organization_types": [
+            "companies",
+            "public_institutions",
+            "associations",
+            "local_authorities"
+          ],
+          "restrictions": null
+        }
+      },
+      "availability": {
+        "type": "business-hours-with-oncall",
+        "timezone": "Pacific/Tahiti",
+        "work_days": [
+          "monday",
+          "tuesday",
+          "wednesday",
+          "thursday",
+          "friday"
+        ],
+        "hours": [
+          {
+            "start": "09:00",
+            "end": "17:00"
+          }
+        ],
+        "exceptions": [],
+        "raw": "9h - 17h du lundi au vendredi (astreinte pour les clients enregistrés)"
+      },
+      "rfc_2350": {
+        "document_url": "https://github.com/csirt-terama/ressources/blob/main/RFC-2350-CSIRT-TERAMA-V1.0.pdf",
+        "version": "1.0",
+        "last_updated": "2024-11-15",
+        "tlp_level": "WHITE",
+        "team_information": {
+          "name": "CISRT Te Rama",
+          "status": "TLP:WHITE",
+          "timezone": "Europe/Paris",
+          "operating_hours": "9h - 17h du lundi au vendredi (astreinte pour les clients enregistrés)"
+        }
+      }
+    }
+  ]
+}
