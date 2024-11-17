@@ -64,7 +64,7 @@
       }
     },
     {
-      "name": "CISRT Hauts de France",
+      "name": "CSIRT Hauts de France",
       "country": "FR",
       "region": "Hauts de France",
       "phone": {
@@ -119,7 +119,7 @@
         "last_updated": "2024-11-15",
         "tlp_level": "WHITE",
         "team_information": {
-          "name": "CISRT Hauts de France",
+          "name": "CSIRT Hauts de France",
           "status": "TLP:WHITE",
           "timezone": "Europe/Paris",
           "operating_hours": "9h00 - 12h30 14h00 - 17h30 du lundi au vendredi hors jours fériés"
@@ -689,7 +689,7 @@
       }
     },
     {
-      "name": "CISRT Atlantic",
+      "name": "CSIRT Atlantic",
       "country": "FR",
       "region": "Antilles, Guyane",
       "zone": "Guadeloupe, Guyane, Martinique,\nSaint-Barthélémy, Saint-Martin,\nSaint-Pierre-et-Miquelon",
@@ -745,7 +745,7 @@
         "last_updated": "2024-11-15",
         "tlp_level": "WHITE",
         "team_information": {
-          "name": "CISRT Atlantic",
+          "name": "CSIRT Atlantic",
           "status": "TLP:WHITE",
           "timezone": "Europe/Paris",
           "operating_hours": "9h00 - 12h30 - 13h30 - 17h00 Lundi au vendredi (hors jours fériés) "
@@ -753,7 +753,7 @@
       }
     },
     {
-      "name": "CISRT La Réunion",
+      "name": "CSIRT La Réunion",
       "country": "FR",
       "region": "La Réunion",
       "phone": {
@@ -806,7 +806,7 @@
         "last_updated": "2024-11-15",
         "tlp_level": "WHITE",
         "team_information": {
-          "name": "CISRT La Réunion",
+          "name": "CSIRT La Réunion",
           "status": "TLP:WHITE",
           "timezone": "Europe/Paris",
           "operating_hours": "9h - 12h - 13h - 17h Du lundi au vendredi"
@@ -814,7 +814,7 @@
       }
     },
     {
-      "name": "CISRT Te Rama",
+      "name": "CSIRT Te Rama",
       "country": "FR",
       "region": "Polynésie Française",
       "phone": {
@@ -863,7 +863,7 @@
         "last_updated": "2024-11-15",
         "tlp_level": "WHITE",
         "team_information": {
-          "name": "CISRT Te Rama",
+          "name": "CSIRT Te Rama",
           "status": "TLP:WHITE",
           "timezone": "Europe/Paris",
           "operating_hours": "9h - 17h du lundi au vendredi (astreinte pour les clients enregistrés)"
