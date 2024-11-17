@@ -18,9 +18,9 @@ Destiné aux structures privées et collectivités locales pour une réponse rap
 
 ## Version
 
--15 Novembre 2024 v1.0 - Publication initiale
+- 15 Novembre 2024 v1.0 - Publication initiale
 
--17 Novmebre 2024 v1.5 - Correction typographique, correction de mails et ajout de la Polynesie Francaise
+- 17 Novmebre 2024 v1.5 - Correction typographique, correction de mails et ajout de la Polynesie Francaise
 
 
 
