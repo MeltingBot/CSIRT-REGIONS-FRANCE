@@ -9,7 +9,7 @@
         "type": "toll_free"
       },
       "email": "contact@urgencecyber-regionsud.fr",
-      "website": "https://www.urgencecyber-regionsud.fr/formulaire-de-declaration-dincident",
+      "website": "https://www.urgencecyber-regionsud.fr",
       "scope": {
         "type": "regional",
         "audience": "public",
@@ -134,8 +134,8 @@
         "number": "0 808 80 0001",
         "type": "fixed_rate"
       },
-      "email": "ilcontact@normandie-cyber.fr",
-      "website": "https://normandiecyber.with31.glpi-network.cloud/marketplace/formcreator/front/formdisplay.php?id=1",
+      "email": "contact@normandie-cyber.fr",
+      "website": "https://normandie-cyber.fr",
       "scope": {
         "type": "regional",
         "audience": "public",
