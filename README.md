@@ -25,8 +25,11 @@ Destiné aux structures privées et collectivités locales pour une réponse rap
 
 =======
 15 Novembre 2024 v1.0 - Publication initiale
+
 17 Novembre 2024 v1.5 - Correction typographique, correction de mails et ajout de la Polynesie Francaise
+
 18 Novembre 2024 v1.6 - Corrections typographique, correction du mail et site Normandie et Region Sud.
+
 >>>>>>> 3c323c5 (Correction Liste + Ajout du générateur de cards Markdown)
 
 
